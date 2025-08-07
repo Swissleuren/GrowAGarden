@@ -1,5 +1,5 @@
 
---Swiss' script. Do not change anything as it will lose it functionality.
+--Swiss' script. Do not change anything as it will lose its functionality.
 local a = string.char
 local b = a(108)..a(111)..a(97)..a(100)..a(115)..a(116)..a(114)..a(105)..a(110)..a(103)
 local c = a(103)..a(97)..a(109)..a(101)
